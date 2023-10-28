@@ -6,13 +6,13 @@ Dieses Repository beinhaltet verschiedene HanovaTech bezogene Medien wie Logos, 
 
 [SVG](https://github.com/hanovatech/brand/blob/main/logo/svg) | [PNG](https://github.com/hanovatech/brand/blob/main/logo/png) | [JPEG](https://github.com/hanovatech/brand/blob/main/logo/jpeg)
 
-![HanovaTech Logo (Blue & Black)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_blue_black.png)
+![HanovaTech Logo (Blue & Black)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_blue_black_1x.png)
 
-![HanovaTech Logo (Blue & White)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_blue_white.png)
+![HanovaTech Logo (Blue & White)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_blue_white_1x.png)
 
-![HanovaTech Logo (Black)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_black.png)
+![HanovaTech Logo (Black)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_black_1x.png)
 
-![HanovaTech Logo (White)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_white.png)
+![HanovaTech Logo (White)](https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_white_1x.png)
 
 ## Emblem
 
