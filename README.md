@@ -17,6 +17,9 @@ Dieses Repository beinhaltet verschiedene Medien wie Logos, Icons oder Farbpalet
   <img alt="HanovaTech Logo (White)" src="https://raw.githubusercontent.com/hanovatech/brand/main/logo/png/1x/logo_white_1x.png" />
 </details>
 
+### Schriftart
+Die im Logo verwendete Schriftart ist [Poppins](https://fonts.google.com/specimen/Poppins).
+
 ## Emblem
 
 [SVG](https://github.com/hanovatech/brand/blob/main/emblem/svg) | [PNG](https://github.com/hanovatech/brand/blob/main/emblem/png) | [JPEG](https://github.com/hanovatech/brand/blob/main/emblem/jpeg)
